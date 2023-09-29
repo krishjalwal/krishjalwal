@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **krishjalwal4@gmail.com**
 
-- <img src = "https://imgs.search.brave.com/Y98Gm3Gq8Y6bdcIRdAAaBDxftZJDRJHq6jVsT32CXVM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZ3JlZW4t/Zmxvdy1zdHJlYW0t/ZGF0YS1jb2Rpbmct/aGVxejByNDI1bnF4/NHF0MC5naWY.gif" width = 400px />
+<img src = "https://imgs.search.brave.com/Y98Gm3Gq8Y6bdcIRdAAaBDxftZJDRJHq6jVsT32CXVM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZ3JlZW4t/Zmxvdy1zdHJlYW0t/ZGF0YS1jb2Rpbmct/aGVxejByNDI1bnF4/NHF0MC5naWY.gif" width = 400px />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
