@@ -2,7 +2,8 @@
 <h3 align="center">"Tech Enthusiast | Aspiring Frontend Developer | Pursuing BSc Data Science at IIT Madras | B.Tech in AI & Data Science from USAR | Proficient in C++, C, Python | Passionate about Data Structures and Algorithms 🚀"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishjalwal&label=Profile%20views&color=0e75b6&style=flat" alt="krishjalwal" /> </p>
-![](https://imgs.search.brave.com/Y98Gm3Gq8Y6bdcIRdAAaBDxftZJDRJHq6jVsT32CXVM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZ3JlZW4t/Zmxvdy1zdHJlYW0t/ZGF0YS1jb2Rpbmct/aGVxejByNDI1bnF4/NHF0MC5naWY.gif)
+
+<img src = "https://imgs.search.brave.com/Y98Gm3Gq8Y6bdcIRdAAaBDxftZJDRJHq6jVsT32CXVM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZ3JlZW4t/Zmxvdy1zdHJlYW0t/ZGF0YS1jb2Rpbmct/aGVxejByNDI1bnF4/NHF0MC5naWY.gif" width = 400px />
 
 
 - 🔭 I’m currently working on **Frontend Projects.**
